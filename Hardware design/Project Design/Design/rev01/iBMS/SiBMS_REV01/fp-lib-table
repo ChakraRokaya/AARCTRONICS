@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MylibSTM")(type "KiCad")(uri "${KIPRJMOD}/Mylib.pretty")(options "")(descr "Design footprint for SiBMS"))
+  (lib (name "SiBMS")(type "KiCad")(uri "C:/Users/ChakraRokaya/OneDrive - Celltech Solutions Oy/Bckup/AARCTRONICS/AARCTRONICS/Hardware design/Project Design/Design/Project Library/SiBMS.pretty")(options "")(descr ""))
+)

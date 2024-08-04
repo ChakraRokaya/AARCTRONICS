@@ -1,0 +1,244 @@
+(footprint "ERA6AEB1020V"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ERA6A")
+	(tags "Resistor")
+	(property "Reference" "R**"
+		(at -5.5 -1.5 0)
+		(layer "F.SilkS")
+		(uuid "2421384d-5f95-4aa2-a290-e7de35de0712")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ERA6AEB1020V"
+		(at 4.5 -5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "958433f8-2f5a-4eed-bf0c-665e8ba3e635")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8664456e-23c9-4325-8c6e-c093a7db8ecd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b075d33c-ca0c-4c70-a0db-cded2b58cc83")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f44e30c-fab7-4adb-ba74-f762b1645abd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2 -0.1)
+		(end -2 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a442d944-1006-4c7b-99a0-a13f628d7f12")
+	)
+	(fp_line
+		(start -2 0.1)
+		(end -2 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5761ff56-e89b-440b-8055-6171171d0d97")
+	)
+	(fp_line
+		(start -0.2 -0.625)
+		(end 0.2 -0.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "57634a07-eedf-451c-bc10-5b0e3b0f80d0")
+	)
+	(fp_line
+		(start -0.2 0.625)
+		(end 0.2 0.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a1e69f2b-2f5b-4c1e-a529-e6a5e0ff6cd4")
+	)
+	(fp_arc
+		(start -2 -0.1)
+		(mid -1.9 0)
+		(end -2 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f013501-df60-4925-a13c-37dd75dcf00b")
+	)
+	(fp_arc
+		(start -2 0.1)
+		(mid -2.1 0)
+		(end -2 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c05f9d74-6379-4b15-93a7-24346342b7a9")
+	)
+	(fp_line
+		(start -2.525 -1.625)
+		(end 2.525 -1.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e70ff375-ae66-4567-9f58-b7880364f361")
+	)
+	(fp_line
+		(start -2.525 1.625)
+		(end -2.525 -1.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "36b57b27-8597-45f3-ae9a-68212a746c10")
+	)
+	(fp_line
+		(start 2.525 -1.625)
+		(end 2.525 1.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "961b2a7a-7a03-4866-aaa5-a4584bf4e0f9")
+	)
+	(fp_line
+		(start 2.525 1.625)
+		(end -2.525 1.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "594dcc8d-ed90-4370-aac0-99c265c10823")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end 1 -0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "67ee0b2d-bf54-4dfc-be38-f46843c48755")
+	)
+	(fp_line
+		(start -1 0.625)
+		(end -1 -0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "65b2f449-4767-437e-8e67-afdc32226fcd")
+	)
+	(fp_line
+		(start 1 -0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ff39e29b-10cb-40e3-8eab-09fda1172a22")
+	)
+	(fp_line
+		(start 1 0.625)
+		(end -1 0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "175d6dc8-8432-466f-804a-5dabd7186bd0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.5 3.5 0)
+		(layer "F.Fab")
+		(uuid "a1042fb9-bfa9-49aa-9ae6-5a67f045381f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.95 0)
+		(size 1.15 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2799f7ef-66d9-4be8-8d21-d0decec2e460")
+	)
+	(pad "2" smd rect
+		(at 0.95 0)
+		(size 1.15 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "89e87523-f68e-4d06-9caf-ea5852ad5b86")
+	)
+	(model "ERA-6AED512V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MylibSTM_sch")(type "KiCad")(uri "${KIPRJMOD}/MylibSTM_sch.kicad_sym")(options "")(descr ""))
+  (lib (name "SiBMS_sch")(type "KiCad")(uri "C:/Users/ChakraRokaya/OneDrive - Celltech Solutions Oy/Bckup/AARCTRONICS/AARCTRONICS/Hardware design/Project Design/Design/Project Library/SiBMS_sch/SiBMS_sch.kicad_sym")(options "")(descr ""))
+)
